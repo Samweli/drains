@@ -1,0 +1,7 @@
+DPW_Node_ID,PUC_Maximo_Asset_ID,System_Use_Code,System_Use,Drain_Type,POINT_X,POINT_Y,Location
+1,1,Default,Undefined,Storm Water Inlet Drain,6010902.84,2101561.66,"(-6.8091, 39.2602)"
+2,2,Default,Undefined,Storm Water Inlet Drain,5999706.95,2090235.11,"(-6.8204, 39.2639)"
+3,3,Default,Undefined,Storm Water Inlet Drain,5999593.03,2090144.75,"(-6.8234, 39.2796)"
+4,4,Default,Undefined,Storm Water Inlet Drain,5999495.8,2090047.95,"(-6.79996, 39.25221)"
+5,5,Default,Undefined,Wetwell,5999809.86,2090296.16,"(-6.80458, 39.26324)"
+6,6,Default,Undefined,Catch Basin Drain,5997014.31,2112405.79,"(-6.80911, 39.26176)"
